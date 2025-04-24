@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "c0e047aa7bf18dd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "11e7ccd89d5f2a93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb60cef467e3b306",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "java-web/day9_mybatis/Mybatis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mybatis"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6000096c31cf90f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb10e79af52f4746",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f498005c365dc3d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f19bac6b43e98a67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "628bb6e996c6ae9a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8b1650caa149218f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5269c9599ce7af31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f72d7b176b9aa5b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "苍穹外卖笔记/day6/苍穹外卖-day06.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "苍穹外卖-day06 的反向链接列表"
+            }
+          },
+          {
+            "id": "30b62dbdbffc3d87",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "java/javaweb/web开发流程.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from web开发流程"
+            }
+          },
+          {
+            "id": "f481c08a0a02bac9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "620ef5a40c06a819",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "java/javaweb/web开发流程.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of web开发流程"
+            }
+          },
+          {
+            "id": "ce87530044e95a89",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "publish:发布更改": false,
+      "random-note:开始漫游笔记": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "audio-recorder:开始/结束录音": false
+    }
+  },
+  "active": "f498005c365dc3d0",
+  "lastOpenFiles": [
+    "git/创建个人博客.md",
+    "java-web/day9_mybatis/Mybatis.md",
+    "java/javaweb/css.md",
+    "java/javaweb/html.md",
+    "java/javaweb/javascript.md",
+    "java/javaweb/vue3/Vue3快速上手.md",
+    "javase/day23-集合（泛型&Set&数据结构）/集合02.md",
+    "ssm/资料-SS M框架Spring+SpringMVC+MyBatis全覆盖/第六天资料/PDF/06_练习.pdf",
+    "递推和递归.md",
+    "Pasted image 20250116113859.png",
+    "未命名.md",
+    "注重刷题量和调试方法.md",
+    "Pasted image 20250117122025.png",
+    "苍穹外卖笔记/day6/苍穹外卖-day06.md",
+    "java-web/day9_mybatis/assets/image-20221213171244796.png",
+    "java-web/day9_mybatis/assets/image-20221213165710141.png",
+    "java-web/day9_mybatis/assets/image-20221213164957636.png",
+    "java-web/day9_mybatis/assets/image-20221213153329553.png",
+    "java-web/day9_mybatis/assets/image-20221213152850322.png",
+    "java-web/day9_mybatis/assets/image-20221213152533851.png",
+    "java-web/day9_mybatis/assets/image-20221213143854434.png",
+    "java-web/day9_mybatis/assets/image-20221213141909455.png",
+    "java-web/day9_mybatis/assets",
+    "java-web/day9_mybatis",
+    "2.java-web/讲义/assets",
+    "2.java-web/讲义/Mybatis.md",
+    "2.java-web/讲义",
+    "苍穹外卖笔记/day6/QA.md",
+    "微信小程序",
+    "开发笔记/欢迎.md",
+    "开发笔记/未命名.md",
+    "开发笔记/未命名",
+    "开发笔记",
+    "动态规划/常规动态规划模型.md",
+    "动态规划",
+    "苍穹外卖笔记/day6/assets",
+    "java-web/Mybatis.md",
+    "java-web/Mybatis-plus.md",
+    "java-web/Html.md",
+    "javase/方法.md",
+    "javase/数组.md",
+    "javase/字符串.md",
+    "javase/IO.md",
+    "java/javaweb/vue3/vue.md",
+    "java/javaweb/javaweb学习.md",
+    "java/javaweb/web开发流程.md"
+  ]
+}
